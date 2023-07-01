@@ -1,1 +1,8 @@
-# OgrenciNotHesaplamaMotoru
+# Öğrenci Not Hesaplama Motoru
+
+
+
+
+
+
+
